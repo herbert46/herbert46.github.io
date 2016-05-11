@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Alex's Webpage</title>
+    <meta charset="utf-8"/>
+    
+    <link rel="stylesheet" href="main.css" type="text/css"/>
+</head>
+    
+<input type="radio" class="radio" name="pages" id="exit" checked />
+
+    <div class="page demo2">
+
+      <input type="radio" class="radio" name="pages" id="page_1" />
+      <section class="section-container section-one">
+        <label for="exit" class="check-label exit-label">
+          X
+        </label>
+        <label for="page_1" class="page-label check-label">
+          <span>About</span>
+        </label>
+        <header class="section-header">
+          <div class="section-content">
+            <h1>
+              Title of Section One
+            </h1>
+          </div>
+        </header>
+        <div class="section-info">
+          <div class="section-content">
+            <p>
+              
+            </p>
+            <p>
+            
+            </p>
+            <p>
+             
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <input type="radio" class="radio" name="pages" id="page_2" />
+      <section class="section-container section-two">
+        <label for="exit" class="check-label exit-label">
+          X
+        </label>
+        <label for="page_2" class="page-label check-label">
+          <span>Photos</span>
+        </label>
+        <header class="section-header">
+          <div class="section-content">
+            <h1>
+              Title of Other Section Two
+            </h1>
+          </div>
+        </header>
+        <div class="section-info">
+          <div class="section-content">
+            <p>
+              
+            </p>
+            <p>
+              
+            </p>
+            <p>
+              
+            </p>
+          </div>
+        </div>
+      </section>
+
+
+      <input type="radio" class="radio" name="pages" id="page_3" />
+      <section class="section-container section-three">
+        <label for="exit" class="check-label exit-label">
+          X
+        </label>
+        <label for="page_3" class="page-label check-label">
+          <span>Contact</span>
+        </label>
+        <header class="section-header">
+          <div class="section-content">
+            <h1>
+              Title of Section Three
+            </h1>
+          </div>
+        </header>
+        <div class="section-info">
+          <div class="section-content">
+            <p>
+            
+            </p>
+            <p>
+             
+            </p>
+            <p>
+              
+            </p>
+          </div>
+        </div>
+      </section>
+
+
+      <input type="radio" class="radio" name="pages" id="page_4" />
+      <section class="section-container section-four">
+        <label for="exit" class="check-label exit-label">
+          X
+        </label>
+
+        <label for="page_4" class="page-label check-label">
+          <span>Skills & intrests</span>
+        </label>
+        <header class="section-header">
+          <div class="section-content">
+            <h1>
+              Title of Section Four
+            </h1>
+          </div>
+        </header>
+        <div class="section-info">
+          <div class="section-content">
+            <p>
+             
+            </p>
+            <p>
+            
+            </p>
+            <p>
+              
+            </p>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    
+    
+    
+</body>
+
+</html>
